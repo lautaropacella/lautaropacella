@@ -5,20 +5,20 @@ Hello! My name is Lautaro Nicolás Pacella. I'm a psychologist from Argentina de
 ## Regression Problems
 
 ### [Predicción de Precio de Venta de Departamentos de Buenos Aires (in Spanish)](nbviewer.jupyter.org/github/lautaropacella/Prediccion-Departamentos/blob/master/Imbo-BsAs.ipynb)
- 1 - Web Scraping de MercadoLibre para Departamentos en Buenos Aires por barrio. 
- 2- Limpieza de datos de la información obtenida adecuada para machine-learning. 
- 3- Prubea de diferentes algoritmos de regresión, selección del mejor en base a accuracy score (RandomForestRegressor)con KFold para cross-validation, y RandomSearchCV para búsqueda de parámetros óptimos .
- 4- Visualización de la importancia de features.
+* Web Scraping de MercadoLibre para Departamentos en Buenos Aires por barrio. 
+* Limpieza de datos de la información obtenida adecuada para machine-learning. 
+* Prubea de diferentes algoritmos de regresión, selección del mejor en base a accuracy score (RandomForestRegressor)con KFold para cross-validation, y RandomSearchCV para búsqueda de parámetros óptimos .
+ * Visualización de la importancia de features.
  
  ## Classification Problems
  
  ### [Telco Customer Churn](https://nbviewer.jupyter.org/github/lautaropacella/Telco-Customer-Churn/blob/master/telco-customer-churn.ipynb)
- 1 - Read data from www.kaggle.com and define the problem to solve.
- 2 - Visualization of variables for insights.
- 3 - Trying out different classification models. Choosing the best one based on accuracy score (Logistic Regression). Tuning it's parameters with SearchGrid.
- 4 - Visualizing and analizyng feature importances.
+ * Read data from www.kaggle.com and define the problem to solve.
+ * Visualization of variables for insights.
+ * Trying out different classification models. Choosing the best one based on accuracy score (Logistic Regression). Tuning it's parameters with SearchGrid.
+ * Visualizing and analizyng feature importances.
 
 ## Competitions
 
-### [Prediction of Appartment Prices in Argentina and Colombia (from www.datasource.ai)](https://www.datasource.ai/es/home/competiciones-en-data-science/prediccion-de-precios-de-apartamentos-en-argentina-y-colombia
-Competition Still Active - Currently in 8th Place.
+### [Prediction of Appartment Prices in Argentina and Colombia - from www.datasource.ai](https://www.datasource.ai/es/home/competiciones-en-data-science/prediccion-de-precios-de-apartamentos-en-argentina-y-colombia
+* Competition Still Active - Currently in 8th Place.
