@@ -11,15 +11,15 @@ Here are some of my practice projects:
 * Prubea de diferentes algoritmos de regresión, selección del mejor en base a accuracy score (RandomForestRegressor)con KFold para cross-validation, y RandomSearchCV para búsqueda de parámetros óptimos .
  * Visualización de la importancia de features.
  
- ## *Classification Problems*
+## *Classification Problems*
  
- ### [Telco Customer Churn](https://nbviewer.jupyter.org/github/lautaropacella/Telco-Customer-Churn/blob/master/telco-customer-churn.ipynb)
- * Read data from www.kaggle.com and define the problem to solve.
- * Visualization of variables for insights.
- * Trying out different classification models. Choosing the best one based on accuracy score (Logistic Regression). Tuning it's parameters with SearchGrid.
- * Visualizing and analizyng feature importances.
+### [Telco Customer Churn](https://nbviewer.jupyter.org/github/lautaropacella/Telco-Customer-Churn/blob/master/telco-customer-churn.ipynb)
+* Read data from www.kaggle.com and define the problem to solve.
+* Visualization of variables for insights.
+* Trying out different classification models. Choosing the best one based on accuracy score (Logistic Regression). Tuning it's parameters with SearchGrid.
+* Visualizing and analizyng feature importances.
 
 ## *Competitions*
 
-### [Prediction of Appartment Prices in Argentina and Colombia - from www.datasource.ai](https://www.datasource.ai/es/home/competiciones-en-data-science/prediccion-de-precios-de-apartamentos-en-argentina-y-colombia
+### [Prediction of Appartment Prices in Argentina and Colombia - from www.datasource.ai](https://www.datasource.ai/es/home/competiciones-en-data-science/prediccion-de-precios-de-apartamentos-en-argentina-y-colombia)
 * Competition Still Active - Currently in 8th Place.
