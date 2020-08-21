@@ -1,6 +1,7 @@
 # **Portfolio**
 
-Hello! My name is Lautaro Nicolás Pacella. I'm a psychologist from Argentina dedicated to research and teaching in the social sciences field. I've learned some data science autonomously out of curiosity, and now I've decided to continue my education in the Data Science Master program from Tilburg University. Here, you can see some of my practice projects in the field of Data Science, divided in different sections:
+Hello! My name is Lautaro Nicolás Pacella. I'm a psychologist from Argentina dedicated to research and teaching in the social sciences field. I've learned some data science autonomously out of curiosity, and now I've decided to continue my education in the Data Science Master program from Tilburg University.
+Here are some of my practice projects:
 
 ## *Regression Problems*
 
