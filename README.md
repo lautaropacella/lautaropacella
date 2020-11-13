@@ -19,6 +19,12 @@ Here are some of my practice projects:
 * Trying out different classification models. Choosing the best one based on accuracy score (Logistic Regression). Tuning it's parameters with SearchGrid.
 * Visualizing and analizyng feature importances.
 
+### [Predicción de Promociones de una Multinacional](https://nbviewer.jupyter.org/github/lautaropacella/Predicci-n-Promociones/blob/main/predicci%C3%B3n_promoci%C3%B3n.ipynb)
+* Definir el problema
+* Visualización y análisis de los datos
+* Selección de mejor algoritmo y opmitización de hiperparámetros.
+* Reporte de predicciones
+
 ## *Competitions*
 
 ### [Prediction of Appartment Prices in Argentina and Colombia - from www.datasource.ai](https://www.datasource.ai/es/home/competiciones-en-data-science/prediccion-de-precios-de-apartamentos-en-argentina-y-colombia)
