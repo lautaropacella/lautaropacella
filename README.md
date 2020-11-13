@@ -22,4 +22,4 @@ Here are some of my practice projects:
 ## *Competitions*
 
 ### [Prediction of Appartment Prices in Argentina and Colombia - from www.datasource.ai](https://www.datasource.ai/es/home/competiciones-en-data-science/prediccion-de-precios-de-apartamentos-en-argentina-y-colombia)
-* Competition Still Active - Currently in 8th Place.
+* Finished in 13th Place.
