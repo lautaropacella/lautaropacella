@@ -5,7 +5,7 @@ Here are some of my practice projects:
 
 ## *Regression Problems*
 
-### [Predicción de Precio de Venta de Departamentos de Buenos Aires (in Spanish)](nbviewer.jupyter.org/github/lautaropacella/Prediccion-Departamentos/blob/master/Imbo-BsAs.ipynb)
+### [Predicción de Precio de Venta de Departamentos de Buenos Aires (in Spanish)](https://nbviewer.jupyter.org/github/lautaropacella/Prediccion-Departamentos/blob/master/Imbo-BsAs.ipynb)
 * Web Scraping de MercadoLibre para Departamentos en Buenos Aires por barrio. 
 * Limpieza de datos de la información obtenida adecuada para machine-learning. 
 * Prubea de diferentes algoritmos de regresión, selección del mejor en base a accuracy score (RandomForestRegressor)con KFold para cross-validation, y RandomSearchCV para búsqueda de parámetros óptimos .
