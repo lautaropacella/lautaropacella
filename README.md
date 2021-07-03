@@ -1,6 +1,6 @@
 **Hello! My name is Lautaro Nicolás Pacella. My background is in scientific research in the field of psychology. I'm currently finishing the Msc in Data Science and Society from Tilburg Univesity.** 
 
-**Here you will be able to see some of my personal projects:**
+**Here you will be able to see some of my projects**
 
 ## Personal Projects
 ### [PhD Twitter Bot](https://twitter.com/PhDsBOT1)
