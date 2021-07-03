@@ -47,7 +47,7 @@
 
 #### [Prediction of Buying Intention from a Web Page - from www.datasource.ai](https://www.datasource.ai/es/home/data-science-competitions-for-startups/prediccion-de-la-intencion-de-compra-en-una-pagina-web)
 * Finished in 10th Place.
-* 
+
 #### [Prediction of Appartment Prices in Argentina and Colombia - from www.datasource.ai](https://www.datasource.ai/es/home/competiciones-en-data-science/prediccion-de-precios-de-apartamentos-en-argentina-y-colombia)
 * Finished in 13th Place.
 
