@@ -21,7 +21,7 @@
 
 ### *Regression Problems*
 
-#### [Predicción de Precio de Venta de Departamentos de Buenos Aires (in Spanish)](https://nbviewer.jupyter.org/github/lautaropacella/Prediccion-Departamentos/blob/master/Imbo-BsAs.ipynb)
+#### [Buenos Aires Appartments' Selling Prices Prediction (in Spanish)](https://nbviewer.jupyter.org/github/lautaropacella/Prediccion-Departamentos/blob/master/Imbo-BsAs.ipynb)
 * Web Scraping of www.MercadoLibre.com for Appartments data in each neighborhood. 
 * Cleaning the data obtained to make it ready for machine learning. 
 * Testing different regression algorithms, selecting of the best one on the accuracy score (RandomForestRegressor) with K-Fold Cross-Validation, and using RandomSearchCV to search for hyperparameter tuning.
@@ -35,7 +35,7 @@
 * Trying out different classification models. Choosing the best one based on accuracy score (Logistic Regression). Tuning it's parameters with SearchGrid.
 * Visualizing and analizyng feature importances.
 
-#### [Predicción de Promociones de una Multinacional](https://nbviewer.jupyter.org/github/lautaropacella/Predicci-n-Promociones/blob/main/predicci%C3%B3n_promoci%C3%B3n.ipynb)
+#### [Promotion Prediction of a Multinational Company](https://nbviewer.jupyter.org/github/lautaropacella/Predicci-n-Promociones/blob/main/predicci%C3%B3n_promoci%C3%B3n.ipynb)
 * Defining the problem.
 * Visualization and analysis of the data.
 * Selecting best classification algorithm and hyperparameter tuning.
