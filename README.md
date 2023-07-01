@@ -4,7 +4,7 @@
 
 ## Personal Projects
 ### [PhD Twitter Bot](https://twitter.com/PhDsBOT1)
-* Automatization of a bot that web-scraps a page in search for PhD's offers in the field of Machine Learning and Artificial Intelligence and twits them every day.
+* Automation of a bot that web-scraps a page in search for PhD's offers in the field of Machine Learning and Artificial Intelligence and twits them every day.
 
 ### [Tango Generator](https://share.streamlit.io/lautaropacella/tango-generator/main/tango_generator.py)
 * Automatic tango lyrics generator based on the architecture of GPT-2 model.
