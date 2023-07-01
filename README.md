@@ -1,6 +1,4 @@
-**Hello there!** 
-
-**Here you will be able to see some of my projects**
+**Hello there! Here are some of my personal data science/engineering projects**
 
 ## Personal Projects
 ### [PhD Twitter Bot](https://twitter.com/PhDsBOT1)
