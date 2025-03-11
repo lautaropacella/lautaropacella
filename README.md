@@ -18,7 +18,7 @@ Feel free to reach out to me or collaborate on exciting projects. You can find m
 * This API delivers cleaned and structured price data from Precios Claros, an Argentinian government initiative. It processes daily price information, resolves inconsistencies, and stores it in a centralized database for easy access and analysis while being almost free to maintain.
 
 ### [CtesBnb](https://datathon2023.streamlit.app/)
-*[ Achieved 2nd place in a data visualization competition](https://drive.google.com/file/d/12bD07QMWqu1ExDZlyqPGeJ10oNzToBIV/view) with a web application analyzing open datasets combined with scraped Airbnb data. The project provided insights into the short-term rental market using interactive visualizations and geospatial analysis.
+* [ Achieved 2nd place in a data visualization competition](https://drive.google.com/file/d/12bD07QMWqu1ExDZlyqPGeJ10oNzToBIV/view) with a web application analyzing open datasets combined with scraped Airbnb data. The project provided insights into the short-term rental market using interactive visualizations and geospatial analysis.
 
 ### [Hybrid Recommender System for Live Streaming (MsC. Thesis)](https://github.com/lautaropacella/DS-S-Master-Thesis)
 * Designed a hybrid recommendation system for Twitch using latent representations, combining user interactions and channel metadata. Implemented data collection via API and web scraping, optimized hyperparameters, and outperformed baseline models in recommendation accuracy.
