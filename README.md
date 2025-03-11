@@ -1,8 +1,34 @@
-**Hello there! Here are some of my personal data science/engineering projects**
+# Hi There! 👋
 
-## Personal Projects
+Welcome to my GitHub profile! I'm **Lautaro Pacella**, a passionate problem solver and data enthusiast.
+
+## Let's Connect!
+
+Feel free to reach out to me or collaborate on exciting projects. You can find me on:
+
+- [LinkedIn](https://www.linkedin.com/in/lautaro-pacella/) *(add your LinkedIn link)*
+- [Email](lautaropacella@hotmail.com) *(add your email)*
+
+## About Me
+
+- 👨‍💻 **Previous Experience**: Data Automation Engineer at [Dealroom.co](https://www.dealroom.co/)
+- 🏫 **Education**:
+  - MsC in Data Science and Society from [**Tilburg University**](https://www.tilburguniversity.edu/)
+  - Psychology Degree from [**Universidad Católica de Salta**](https://www.ucasal.edu.ar/)
+
+## 💻 Personal Projects
+
+### [Precios Abiertos API](https://api.preciosabiertos.com/redoc)
+* This API delivers cleaned and structured price data from Precios Claros, an Argentinian government initiative. It processes daily price information, resolves inconsistencies, and stores it in a centralized database for easy access and analysis while being almost free to maintain.
+
+### [CtesBnb](https://datathon2023.streamlit.app/)
+*[ Achieved 2nd place in a data visualization competition](https://drive.google.com/file/d/12bD07QMWqu1ExDZlyqPGeJ10oNzToBIV/view) with a web application analyzing open datasets combined with scraped Airbnb data. The project provided insights into the short-term rental market using interactive visualizations and geospatial analysis.
+
+### [Hybrid Recommender System for Live Streaming (MsC. Thesis)](https://github.com/lautaropacella/DS-S-Master-Thesis)
+* Designed a hybrid recommendation system for Twitch using latent representations, combining user interactions and channel metadata. Implemented data collection via API and web scraping, optimized hyperparameters, and outperformed baseline models in recommendation accuracy.
+
 ### [PhD Twitter Bot](https://twitter.com/PhDsBOT1)
-* Automation of a bot that web-scraps a page in search for PhD's offers in the field of Machine Learning and Artificial Intelligence and twits them every day.
+* Automation of a bot that web-scraps a page in search for PhD's offers in the field of Machine Learning and Artificial Intelligence and tweets them every day. (discontinued)
 
 ### [Tango Generator](https://share.streamlit.io/lautaropacella/tango-generator/main/tango_generator.py)
 * Automatic tango lyrics generator based on the architecture of GPT-2 model.
@@ -13,39 +39,10 @@
 ### [WhatsApp Conversation Analizer](https://share.streamlit.io/lautaropacella/whatsappanalisis/main/Wpp_Analizer.py)
 * Automatic visualization and basic analysis of WhatsApp conversations.
 
-## Practice Projects
-
-### *Data Analysis*
-
 #### [Exploratory analysis on city traffic open data from Corrientes City (in Spanish)](https://nbviewer.jupyter.org/github/lautaropacella/EDA-Tr-nsito-Corrientes/blob/main/Transito_corrientes1.ipynb)
-
-### *Regression Problems*
 
 #### [Buenos Aires Appartments' Selling Prices Prediction (in Spanish)](https://nbviewer.jupyter.org/github/lautaropacella/Prediccion-Departamentos/blob/master/Imbo-BsAs.ipynb)
 * Web Scraping of www.MercadoLibre.com for Appartments data in each neighborhood. 
 * Cleaning the data obtained to make it ready for machine learning. 
 * Testing different regression algorithms, selecting of the best one on the accuracy score (RandomForestRegressor) with K-Fold Cross-Validation, and using RandomSearchCV to search for hyperparameter tuning.
  * Visualization of the feature importances.
- 
-### *Classification Problems*
- 
-#### [Telco Customer Churn](https://nbviewer.jupyter.org/github/lautaropacella/Telco-Customer-Churn/blob/master/telco-customer-churn.ipynb)
-* Read data from www.kaggle.com and define the problem to solve.
-* Visualization of variables for insights.
-* Trying out different classification models. Choosing the best one based on accuracy score (Logistic Regression). Tuning it's parameters with SearchGrid.
-* Visualizing and analizyng feature importances.
-
-#### [Promotion Prediction of a Multinational Company](https://nbviewer.jupyter.org/github/lautaropacella/Predicci-n-Promociones/blob/main/predicci%C3%B3n_promoci%C3%B3n.ipynb)
-* Defining the problem.
-* Visualization and analysis of the data.
-* Selecting best classification algorithm and hyperparameter tuning.
-* Reporting predictions.
-
-### *Competitions*
-
-#### [Prediction of Buying Intention from a Web Page - from www.datasource.ai](https://www.datasource.ai/es/home/data-science-competitions-for-startups/prediccion-de-la-intencion-de-compra-en-una-pagina-web)
-* Finished in 10th Place.
-
-#### [Prediction of Appartment Prices in Argentina and Colombia - from www.datasource.ai](https://www.datasource.ai/es/home/competiciones-en-data-science/prediccion-de-precios-de-apartamentos-en-argentina-y-colombia)
-* Finished in 13th Place.
-
