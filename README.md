@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm **Lautaro Pacella**, a passionate problem solv
 
 Feel free to reach out to me or collaborate on exciting projects. You can find me on:
 
-- [LinkedIn](https://www.linkedin.com/in/lautaro-pacella/) *(add your LinkedIn link)*
-- [Email](lautaropacella@hotmail.com) *(add your email)*
+- [LinkedIn](https://www.linkedin.com/in/lautaro-pacella/)
+- [Email](lautaropacella@hotmail.com)
 
 ## About Me
 
