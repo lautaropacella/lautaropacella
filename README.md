@@ -8,12 +8,12 @@ Feel free to reach out to me or collaborate on exciting projects. You can find m
 ## About Me
 
 - 👨‍💻 **Previous Experience**:
-  - Data Automation Engineer at [Dealroom.co](https://www.dealroom.co/)
-  - Research Fellow at [Universidad Nacional del Nordeste](https://www.unne.edu.ar)
+  - Data Automation Engineer at [**Dealroom.co**](https://www.dealroom.co/)
+  - Research Fellow at [**Universidad Nacional del Nordeste**](https://www.unne.edu.ar)
   
 - 🏫 **Education**:
   - MsC in Data Science and Society from [**Tilburg University**](https://www.tilburguniversity.edu/)
-  - Psychology Degree from [**Universidad Católica de Salta**](https://www.ucasal.edu.ar/)
+  - Graduate Degree in Psychology from [**Universidad Católica de Salta**](https://www.ucasal.edu.ar/)
 
 ## 💻 Personal Projects
 
