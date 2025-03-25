@@ -7,7 +7,10 @@ Feel free to reach out to me or collaborate on exciting projects. You can find m
 
 ## About Me
 
-- 👨‍💻 **Previous Experience**: Data Automation Engineer at [Dealroom.co](https://www.dealroom.co/)
+- 👨‍💻 **Previous Experience**:
+  - Data Automation Engineer at [Dealroom.co](https://www.dealroom.co/)
+  - Research Fellow at Universidad [Nacional del Nordeste](https://www.unne.edu.ar)
+  
 - 🏫 **Education**:
   - MsC in Data Science and Society from [**Tilburg University**](https://www.tilburguniversity.edu/)
   - Psychology Degree from [**Universidad Católica de Salta**](https://www.ucasal.edu.ar/)
@@ -23,7 +26,7 @@ Feel free to reach out to me or collaborate on exciting projects. You can find m
 ### [Hybrid Recommender System for Live Streaming (MsC. Thesis)](https://github.com/lautaropacella/DS-S-Master-Thesis)
 * Designed a hybrid recommendation system for Twitch using latent representations, combining user interactions and channel metadata. Implemented data collection via API and web scraping, optimized hyperparameters, and outperformed baseline models in recommendation accuracy.
 
-### [PhD Twitter Bot](https://twitter.com/PhDsBOT1)
+### [PhD Twitter Bot](https://twitter.com/PhDsBOT1)(discontinued)
 * Automation of a bot that web-scraps a page in search for PhD's offers in the field of Machine Learning and Artificial Intelligence and tweets them every day. (discontinued)
 
 ### [Tango Generator](https://share.streamlit.io/lautaropacella/tango-generator/main/tango_generator.py)
@@ -35,10 +38,12 @@ Feel free to reach out to me or collaborate on exciting projects. You can find m
 ### [WhatsApp Conversation Analizer](https://share.streamlit.io/lautaropacella/whatsappanalisis/main/Wpp_Analizer.py)
 * Automatic visualization and basic analysis of WhatsApp conversations.
 
-#### [Exploratory analysis on city traffic open data from Corrientes City (in Spanish)](https://nbviewer.jupyter.org/github/lautaropacella/EDA-Tr-nsito-Corrientes/blob/main/Transito_corrientes1.ipynb)
-
-#### [Buenos Aires Appartments' Selling Prices Prediction (in Spanish)](https://nbviewer.jupyter.org/github/lautaropacella/Prediccion-Departamentos/blob/master/Imbo-BsAs.ipynb)
+### [Buenos Aires Appartments' Selling Prices Prediction (in Spanish)](https://nbviewer.jupyter.org/github/lautaropacella/Prediccion-Departamentos/blob/master/Imbo-BsAs.ipynb)
 * Web Scraping of www.MercadoLibre.com for Appartments data in each neighborhood. 
 * Cleaning the data obtained to make it ready for machine learning. 
 * Testing different regression algorithms, selecting of the best one on the accuracy score (RandomForestRegressor) with K-Fold Cross-Validation, and using RandomSearchCV to search for hyperparameter tuning.
  * Visualization of the feature importances.
+
+### [Exploratory analysis on city traffic open data from Corrientes City (in Spanish)](https://nbviewer.jupyter.org/github/lautaropacella/EDA-Tr-nsito-Corrientes/blob/main/Transito_corrientes1.ipynb)
+
+
