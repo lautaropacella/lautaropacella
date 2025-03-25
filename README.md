@@ -17,7 +17,7 @@ Feel free to reach out to me or collaborate on exciting projects. You can find m
 
 ## 💻 Personal Projects
 
-### [Precios Abiertos API](https://api.preciosabiertos.com/redoc)
+### [Precios Abiertos API](https://api.preciosabiertos.com)
 * This API delivers cleaned and structured price data from Precios Claros, an Argentinian government initiative. It processes daily price information, resolves inconsistencies, and stores it in a centralized database for easy access and analysis while being almost free to maintain.
 
 ### [CtesBnb](https://datathon2023.streamlit.app/)
