@@ -1,6 +1,6 @@
 # Hi There! 👋
 
-Welcome to my GitHub profile! I'm **Lautaro Pacella**, a passionate problem solver and data enthusiast.
+I'm **Lautaro Pacella**, a passionate problem solver and data enthusiast.
 Feel free to reach out to me or collaborate on exciting projects. You can find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/lautaro-pacella/)
@@ -9,7 +9,7 @@ Feel free to reach out to me or collaborate on exciting projects. You can find m
 
 - 👨‍💻 **Previous Experience**:
   - Data Automation Engineer at [Dealroom.co](https://www.dealroom.co/)
-  - Research Fellow at Universidad [Nacional del Nordeste](https://www.unne.edu.ar)
+  - Research Fellow at [Universidad Nacional del Nordeste](https://www.unne.edu.ar)
   
 - 🏫 **Education**:
   - MsC in Data Science and Society from [**Tilburg University**](https://www.tilburguniversity.edu/)
